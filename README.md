@@ -12,8 +12,6 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     |  
     ├── CITATION.md       <- Way to cite the project.  
     |  
-    ├── References.md     <- Information with references and sources used in the project.  
-    |  
     ├── data              <- Original data bases.  
     |  
     ├── doc               <- Archivos de texto.  
